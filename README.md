@@ -27,5 +27,7 @@ available on a controlled basis served up conveniently in excel.
 
 One of the data samples served up is Iguana log data which has had some simple extraction of a few key fields done.
 
+<a href="http://help.interfaceware.com/forums/topic/serving-live-data-into-excel">See our forum for more details</a>.
+
 Enjoy,
 Eliot
