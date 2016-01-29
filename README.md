@@ -1,6 +1,6 @@
-IGUANA 6 Excel Adapter
+<h1>IGUANA 6 Excel Adapter</h1>
 
-This is sharing an internal project.  
+This is just me sharing an internal project.  
 
 It's an Iguana 6 webservice channel which serves up a live excel spread sheet that can fetch tabular data from web services served 
 by the Iguana webservice channel.
@@ -26,3 +26,6 @@ This channel basically provides the foundation to make it very easy and convenie
 available on a controlled basis served up conveniently in excel.  
 
 One of the data samples served up is Iguana log data which has had some simple extraction of a few key fields done.
+
+Enjoy,
+Eliot
