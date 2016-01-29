@@ -1,3 +1,5 @@
+IGUANA 6 Excel Adapter
+
 This is sharing an internal project.  
 
 It's an Iguana 6 webservice channel which serves up a live excel spread sheet that can fetch tabular data from web services served 
